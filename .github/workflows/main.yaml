@@ -33,4 +33,4 @@ jobs:
         port: 22
         strip_components: 2
         source: "dist/devops-labs-frontend/*"
-        target: "/home/ubuntu/frontend/"
+        target: "/root/frontend"
